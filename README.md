@@ -1,3 +1,13 @@
+# Ghibli Movie App
+
+A modern Vue 3 application that displays Studio Ghibli movies information. Built with Vite for lightning-fast development experience.
+
+## Features
+- Vue 3 Composition API
+- Vite build tooling
+- Hot module replacement
+- Studio Ghibli movies showcase
+  
 # ghibli-movie-app
 
 This template should help get you started developing with Vue 3 in Vite.
